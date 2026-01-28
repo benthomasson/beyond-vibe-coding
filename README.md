@@ -5,37 +5,37 @@ How to get AI to write the code you would have written in your style.
 
 ## Overview
 
-Beyond Vibe Coding is a methodology for teaching Claude Code the unique patterns and personality of your codebase. Every codebase develops its own "DNA" over time - a distinctive combination of naming conventions, architectural patterns, code organization, and problem-solving approaches that reflect the people who have worked there. This methodology helps Claude understand and replicate that codebase personality, generating code that feels naturally integrated rather than foreign.
+Beyond Vibe Coding is a methodology for discovering, documenting, and applying the unique patterns and personality of any codebase. Every codebase develops its own "DNA" over time - a distinctive combination of naming conventions, architectural patterns, code organization, and problem-solving approaches that reflect the people who have worked there. This methodology works with your own code, legacy systems, open source projects, or any codebase where source is available, helping Claude understand and replicate those patterns whether you wrote the code or not.
 
 ## The Problem
 
-We've all experienced this: you ask an AI to write code, and while it works, it doesn't feel like *your* code. The variable names are generic, the structure doesn't match your patterns, and you end up spending more time refactoring than if you'd written it yourself.
+We've all experienced this: you ask an AI to write code, and while it works, it doesn't feel right for the codebase. The variable names are generic, the structure doesn't match existing patterns, and you end up spending more time refactoring than if you'd written it yourself. This problem is even more acute when working with legacy systems, open source projects, or any codebase you didn't originally create - there's far more code out there that we didn't write than we did write.
 
 ## The Solution
 
-Beyond Vibe Coding leverages Claude's exceptional pattern recognition abilities through conversation and examples. The approach centers on teaching rather than configuring - you have a discussion with Claude about what makes your codebase unique, then provide concrete examples that demonstrate those patterns in action.
+Beyond Vibe Coding leverages Claude's exceptional pattern recognition abilities to discover and document patterns in any codebase. Whether you're working with your own code, exploring a legacy system, or learning from an open source project, Claude can analyze the code and identify the implicit patterns, architectural decisions, and design philosophy that guide the codebase.
 
 ### Core Principles
 
-1. **Start with Conversation** - Explain the reasoning behind your patterns and architectural choices
-2. **Show, Don't Just Tell** - Provide examples of your best code that embody your style  
-3. **Let Claude Discover** - Have Claude analyze your examples and document the patterns it finds
-4. **Collaborate on Documentation** - Work together to refine and improve Claude's documented understanding
-5. **Build Persistent Knowledge** - Create lasting documentation that eliminates the need to re-teach patterns
+1. **Code as Primary Source** - Let the codebase itself reveal its patterns through analysis
+2. **Pattern Discovery** - Have Claude examine code examples and identify consistent approaches  
+3. **Document Insights** - Capture both what patterns exist and reasoning about why they work
+4. **Collaborative Refinement** - Work together to improve understanding, especially for code you didn't write
+5. **Build Persistent Knowledge** - Create documentation that preserves discovered patterns for future use
 
 ## The Workflow
 
-### Phase 1: Setup
-- Configure your development environment
-- Document your coding standards and preferences
-- Prepare examples of your best code as style references
+### Phase 1: Preparation
+- Identify the codebase you want to analyze (your own, legacy, or third-party)
+- Gather representative code examples that showcase different aspects
+- Prepare any available context (documentation, commit history, team knowledge)
 
 ### Phase 2: Pattern Discovery
-- **Share examples** - Show Claude your best code that exemplifies your patterns
-- **Let Claude analyze** - Have Claude examine the code and identify patterns
+- **Share code examples** - Provide Claude with representative samples from the codebase
+- **Let Claude analyze** - Have Claude examine the code and identify consistent patterns
 - **Document findings** - Claude creates markdown documentation of discovered patterns
-- **Review and refine** - Collaborate to improve the documented understanding
-- **Explain context** - Add reasoning and domain-specific knowledge to the documentation
+- **Add context** - Supplement with any known reasoning, historical context, or domain knowledge
+- **Reverse-engineer intent** - Understand why certain patterns evolved, even in unfamiliar code
 
 ### Phase 3: Collaborative Refinement
 - **Test understanding** - Give Claude tasks using the documented patterns
@@ -75,13 +75,32 @@ Your codebase personality includes:
 - **Testing philosophies** that balance coverage with maintainability
 - **Problem-solving styles** that reflect your team's collective experience
 
+## Applications Beyond Your Own Code
+
+Beyond Vibe Coding excels at discovering patterns in codebases you didn't write:
+
+### Legacy System Analysis
+- **Code Archaeology** - Discover the original architectural intent behind legacy code
+- **Pattern Recovery** - Document approaches used by previous developers
+- **Knowledge Preservation** - Capture tribal knowledge before it's lost
+
+### Open Source Learning
+- **Best Practice Discovery** - Learn from well-established projects' proven patterns
+- **Framework Understanding** - Understand idiomatic usage patterns for libraries
+- **Cross-Project Insights** - Compare approaches across different successful projects
+
+### Third-Party Integration
+- **API Pattern Analysis** - Discover how external libraries expect to be used
+- **Integration Strategies** - Document successful integration patterns
+- **Compatibility Insights** - Understand how to work with existing systems
+
 ## Getting Started
 
-1. **Start a Conversation** - Discuss with Claude what makes your codebase special and why
-2. **Share Your Best Examples** - Show Claude code that exemplifies your patterns and style
-3. **Let Claude Document** - Have Claude analyze the examples and create pattern documentation
-4. **Review and Collaborate** - Work together to refine and improve the documented patterns
-5. **Test and Iterate** - Use the documented patterns for code generation and update based on results
+1. **Choose Your Target** - Identify any codebase you want to understand (yours, legacy, or third-party)
+2. **Gather Examples** - Collect representative code samples that showcase different aspects
+3. **Let Claude Analyze** - Have Claude examine the code and identify patterns
+4. **Document Discoveries** - Work together to create lasting documentation of insights
+5. **Apply Knowledge** - Use documented patterns to generate consistent, fitting code
 
 ## The Documentation Advantage
 
@@ -112,7 +131,7 @@ You'll know Beyond Vibe Coding is working when:
 
 ## The Key Insight
 
-Claude's strength lies in pattern recognition and documentation. Rather than having developers write style guides for Claude to follow, let Claude discover patterns from your code examples and document them. This creates a collaborative knowledge-building process where Claude's pattern recognition insights are captured in persistent documentation that both humans and AI can reference and improve over time.
+Claude's strength lies in pattern recognition and documentation. Rather than having developers write style guides, let Claude discover patterns from any codebase and document them. This creates a universal code comprehension tool where Claude becomes a "code archaeologist" that can examine any codebase and extract its implicit knowledge, creating documentation that bridges the gap between original developers' intent and current understanding.
 
 ## The Long-term Value
 

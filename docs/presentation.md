@@ -6,31 +6,31 @@ A presentation on getting Claude Code to write code in your style.
 **Visual:** Clean title slide with "Beyond Vibe Coding" prominently displayed
 
 **Script:**
-"Welcome to Beyond Vibe Coding - a methodology for teaching Claude Code your codebase's unique patterns and personality. Today we'll explore how conversation and examples can help Claude generate code that feels naturally integrated with your existing system."
+"Welcome to Beyond Vibe Coding - a methodology for discovering, documenting, and applying the unique patterns of any codebase. Today we'll explore how Claude can become a 'code archaeologist' that unlocks the hidden wisdom in any codebase, whether you wrote it or not."
 
 ---
 
 ## Slide 2: The Problem
-**Visual:** Split screen showing messy generated code vs. clean, styled code
+**Visual:** Split screen showing generic AI code vs. context-aware code
 
 **Script:**
-"We've all been there - you ask an AI to write some code, and while it works, it doesn't feel like YOUR code. The variable names are generic, the structure doesn't match your patterns, and you spend more time refactoring than if you'd written it yourself."
+"We've all been there - you ask an AI to write code, and while it works, it doesn't fit the codebase. This problem is even more acute when working with legacy systems, open source projects, or any code you didn't write. There's far more code out there that we didn't write than we did write."
 
 ---
 
-## Slide 3: What is Codebase Personality?
-**Visual:** Code examples showing the same functionality implemented in different codebase styles
+## Slide 3: Code as Hidden Knowledge
+**Visual:** Iceberg diagram showing visible code vs. hidden patterns and reasoning
 
 **Script:**
-"Every codebase develops its own personality over time - a unique DNA that reflects the people who have worked there. It's your naming conventions that mirror your domain language, architectural patterns proven in your context, and problem-solving approaches that reflect your team's collective wisdom."
+"Every codebase contains hidden knowledge - implicit patterns, architectural decisions, and problem-solving approaches that aren't documented anywhere. Whether it's your team's code, a legacy system, or an open source project, there's valuable wisdom embedded in the code itself waiting to be discovered."
 
 ---
 
-## Slide 4: The Documentation Insight
-**Visual:** Diagram showing Claude analyzing code, creating documentation, and humans refining it
+## Slide 4: Claude as Code Archaeologist
+**Visual:** Diagram showing Claude analyzing various codebases and extracting patterns
 
 **Script:**
-"The key insight is that Claude excels at pattern recognition and documentation. Rather than having developers write style guides for Claude to follow, let Claude discover patterns from your code examples and document them. This creates persistent knowledge that eliminates the need to re-teach patterns."
+"The key insight is that Claude can serve as a 'code archaeologist' - examining any codebase and discovering the implicit patterns and reasoning embedded within. Whether analyzing your own code, legacy systems, or open source projects, Claude can extract and document the architectural wisdom that would otherwise remain hidden."
 
 ---
 
@@ -66,19 +66,19 @@ A presentation on getting Claude Code to write code in your style.
 
 ---
 
-## Slide 9: The Workflow - Phase 1: Setup
-**Visual:** Checklist of setup items
+## Slide 9: The Workflow - Phase 1: Target Selection
+**Visual:** Different types of codebases (legacy, open source, third-party)
 
 **Script:**
-"Let's walk through the workflow. Phase 1 is Setup. Configure your environment, establish your coding standards, and prepare examples of your best code to use as references."
+"Let's walk through the workflow. Phase 1 is Target Selection. Choose any codebase you want to understand - your own team's code, a legacy system you inherited, an open source project you want to learn from, or third-party code you need to integrate with."
 
 ---
 
-## Slide 10: The Workflow - Phase 2: Pattern Discovery
-**Visual:** Claude analyzing code and generating initial pattern documentation
+## Slide 10: The Workflow - Phase 2: Archaeological Analysis
+**Visual:** Claude examining unfamiliar code and identifying patterns
 
 **Script:**
-"Phase 2: Pattern Discovery. Share your best code examples and have Claude analyze them to identify patterns. Claude creates initial documentation of what it discovers, capturing consistent approaches and architectural decisions."
+"Phase 2: Archaeological Analysis. Provide representative code samples from any codebase and have Claude examine them for patterns. Claude becomes a detective, identifying consistent approaches, naming conventions, and architectural decisions even in code you've never seen before."
 
 ---
 
@@ -99,10 +99,10 @@ A presentation on getting Claude Code to write code in your style.
 ---
 
 ## Slide 13: Live Demo
-**Visual:** Screen recording showing pattern discovery and documentation creation
+**Visual:** Screen recording showing analysis of unfamiliar legacy code
 
 **Script:**
-"Now let's see this in action. I'll show Claude some code examples, have it analyze and document the patterns it discovers, then we'll refine that documentation together and use it to generate new code that follows our established patterns."
+"Now let's see this in action. I'll show Claude a legacy codebase none of us wrote, watch it discover the implicit patterns and architectural decisions, then see how we can use that understanding to generate new code that fits seamlessly with the existing system."
 
 ---
 
@@ -122,27 +122,27 @@ A presentation on getting Claude Code to write code in your style.
 
 ---
 
-## Slide 16: Knowledge Preservation Value
-**Visual:** Timeline showing team changes with consistent codebase patterns maintained through documentation
+## Slide 16: Universal Code Comprehension
+**Visual:** World map showing different codebases being analyzed and understood
 
 **Script:**
-"The real power lies in knowledge preservation. This documentation becomes institutional memory that survives team changes. New developers can understand your codebase immediately, and future AI instances can pick up where previous sessions left off, ensuring consistency across years of development."
+"The real power lies in universal code comprehension. This approach works on any codebase where source is available. Legacy systems, open source projects, third-party libraries - Claude can analyze and document patterns in code you've never seen, making the collective wisdom of the software development community more accessible."
 
 ---
 
-## Slide 17: Long-term Impact
-**Visual:** Codebase timeline showing consistency maintained through team transitions
+## Slide 17: Beyond Your Own Code
+**Visual:** Examples of legacy system analysis, open source learning, and third-party integration
 
 **Script:**
-"The long-term impact is transformative. Your codebase maintains its personality even as original developers leave. New maintainers understand both what the code does and why it was structured that way. Future AI tools can validate consistency and suggest improvements while respecting established architectural decisions."
+"The transformative aspect is going beyond your own code. Analyze legacy systems to understand their architectural intent. Learn from successful open source projects' proven patterns. Discover how external libraries expect to be used. Extract wisdom from any codebase you encounter."
 
 ---
 
-## Slide 18: Building for the Future
-**Visual:** Roadmap showing immediate benefits leading to long-term value
+## Slide 18: Unlock Hidden Knowledge
+**Visual:** Before/after showing opaque legacy code becoming comprehensible
 
 **Script:**
-"Ready to build for the future? Start by documenting your current patterns with Claude's help, but think beyond today's team. Create documentation that will serve future developers and AI instances. This isn't just about better code generation now - it's about preserving your team's collective wisdom for years to come."
+"Ready to unlock hidden knowledge? Start with any codebase you want to understand better. Let Claude analyze patterns in legacy systems before they become unmaintainable. Learn from open source masters by documenting their approaches. Make the implicit wisdom in any codebase explicit and actionable."
 
 ---
 
@@ -158,7 +158,7 @@ A presentation on getting Claude Code to write code in your style.
 **Visual:** Clean thank you slide with resources
 
 **Script:**
-"Thank you for your attention. Remember, Beyond Vibe Coding is more than a development methodology - it's an investment in your codebase's future. By documenting Claude's pattern insights alongside human reasoning, you create institutional memory that ensures your hard-learned patterns and architectural wisdom continue to guide development long after today's team has moved on."
+"Thank you for your attention. Remember, Beyond Vibe Coding acknowledges a fundamental truth: there's far more code we didn't write than we did write. By turning Claude into a code archaeologist, we can unlock the architectural wisdom embedded in any codebase, making the collective knowledge of the software development community more accessible and actionable for everyone."
 
 ---
 
