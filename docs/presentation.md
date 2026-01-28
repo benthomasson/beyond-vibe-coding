@@ -26,11 +26,11 @@ A presentation on getting Claude Code to write code in your style.
 
 ---
 
-## Slide 4: The Pattern Recognition Insight
-**Visual:** Diagram showing Claude learning from examples and applying patterns
+## Slide 4: The Documentation Insight
+**Visual:** Diagram showing Claude analyzing code, creating documentation, and humans refining it
 
 **Script:**
-"The key insight is that Claude excels at pattern recognition and extrapolation. When you show it examples of your best code and explain the reasoning behind your choices, Claude can internalize those patterns and apply them consistently to new situations."
+"The key insight is that Claude excels at pattern recognition and documentation. Rather than having developers write style guides for Claude to follow, let Claude discover patterns from your code examples and document them. This creates persistent knowledge that eliminates the need to re-teach patterns."
 
 ---
 
@@ -42,27 +42,27 @@ A presentation on getting Claude Code to write code in your style.
 
 ---
 
-## Slide 6: Core Principle #2 - Show Through Examples
-**Visual:** Examples of excellent code with annotations highlighting patterns
+## Slide 6: Core Principle #2 - Let Claude Discover
+**Visual:** Split screen showing code examples and Claude's pattern analysis
 
 **Script:**
-"Second: Show Through Examples. Provide concrete examples of your best code that demonstrate your patterns in action. Claude learns better from seeing how you've solved real problems than from abstract descriptions."
+"Second: Let Claude Discover. Provide examples and let Claude analyze them to identify patterns. Claude can often recognize consistent approaches and architectural decisions that you might not have explicitly articulated."
 
 ---
 
-## Slide 7: Core Principle #3 - Focus on the Why
-**Visual:** Code example with callouts explaining the reasoning behind design choices
+## Slide 7: Core Principle #3 - Document Collaboratively
+**Visual:** Markdown documentation being created and refined by both Claude and human
 
 **Script:**
-"Third: Focus on the Why. Don't just show your patterns - explain the context that makes them effective. Help Claude understand why certain approaches work in your environment so it can make similar decisions in new scenarios."
+"Third: Document Collaboratively. Have Claude create markdown documentation of discovered patterns, then work together to refine it. Add context about why patterns work, domain-specific knowledge, and reasoning that Claude couldn't infer from code alone."
 
 ---
 
-## Slide 8: Core Principle #4 - Trust Pattern Recognition
-**Visual:** Animation showing Claude applying learned patterns to new scenarios
+## Slide 8: Core Principle #4 - Build Persistent Knowledge
+**Visual:** Growing documentation library that persists between sessions
 
 **Script:**
-"Fourth: Trust Pattern Recognition. Once you've shared examples and context, let Claude apply what it's learned. Its strength lies in recognizing patterns and applying them consistently, often in ways that feel naturally integrated with your existing code."
+"Fourth: Build Persistent Knowledge. Create lasting documentation that eliminates the need to re-teach patterns in every session. This documentation becomes a shared artifact that both humans and AI can reference and improve over time."
 
 ---
 
@@ -74,35 +74,35 @@ A presentation on getting Claude Code to write code in your style.
 
 ---
 
-## Slide 10: The Workflow - Phase 2: Pattern Teaching
-**Visual:** Conversation interface showing pattern explanation and examples
+## Slide 10: The Workflow - Phase 2: Pattern Discovery
+**Visual:** Claude analyzing code and generating initial pattern documentation
 
 **Script:**
-"Phase 2: Pattern Teaching. This is where you have the conversation with Claude about what makes your codebase unique. Share examples, explain reasoning, and demonstrate how different patterns work together in your system."
+"Phase 2: Pattern Discovery. Share your best code examples and have Claude analyze them to identify patterns. Claude creates initial documentation of what it discovers, capturing consistent approaches and architectural decisions."
 
 ---
 
-## Slide 11: The Workflow - Phase 3: Collaborative Coding
-**Visual:** Progressive examples showing Claude applying learned patterns to increasingly complex tasks
+## Slide 11: The Workflow - Phase 3: Collaborative Refinement
+**Visual:** Documentation being reviewed and improved by developers and Claude together
 
 **Script:**
-"Phase 3: Collaborative Coding. Give Claude small tasks that exercise your key patterns. Let it apply what it's learned to new situations, providing feedback when outputs don't match your style. Build confidence through successful iterations."
+"Phase 3: Collaborative Refinement. Review Claude's documentation and work together to improve it. Add context, reasoning, and domain knowledge. Test the documented patterns in practice and update based on what works."
 
 ---
 
-## Slide 12: The Workflow - Phase 4: Optimization
-**Visual:** Performance metrics and streamlined processes
+## Slide 12: The Workflow - Phase 4: Knowledge Evolution
+**Visual:** Documentation evolving and growing over time with version history
 
 **Script:**
-"Phase 4: Optimization. Once you've established good patterns, streamline common workflows, create reusable templates, and document the lessons you've learned for future reference."
+"Phase 4: Knowledge Evolution. The documentation grows and evolves as your codebase changes. Team members can contribute to pattern documentation, and you can apply these documentation techniques to new projects."
 
 ---
 
 ## Slide 13: Live Demo
-**Visual:** Screen recording or live coding session
+**Visual:** Screen recording showing pattern discovery and documentation creation
 
 **Script:**
-"Now let's see this in action. I'll demonstrate how to teach Claude about a codebase's unique patterns through conversation and examples, then watch as it applies those patterns to generate code that feels naturally integrated."
+"Now let's see this in action. I'll show Claude some code examples, have it analyze and document the patterns it discovers, then we'll refine that documentation together and use it to generate new code that follows our established patterns."
 
 ---
 
@@ -118,23 +118,23 @@ A presentation on getting Claude Code to write code in your style.
 **Visual:** Key points highlighted
 
 **Script:**
-"To summarize our best practices: Start with conversation to explain context and reasoning, share your best code as examples, help Claude understand why your patterns work, and trust its pattern recognition abilities to apply learning to new situations."
+"To summarize our best practices: Let Claude discover patterns from your code examples, collaborate on documenting those patterns with context and reasoning, build persistent knowledge that eliminates re-teaching, and evolve the documentation as your codebase grows."
 
 ---
 
-## Slide 16: Tools and Features
-**Visual:** Screenshot of Claude Code features
+## Slide 16: The Documentation Advantage
+**Visual:** Before/after comparison showing repeated teaching vs. persistent documentation
 
 **Script:**
-"Claude Code provides several features that support this workflow: memory management for context persistence, file reading capabilities for understanding your codebase, and iterative editing tools for refinement."
+"The documentation advantage transforms the relationship. Instead of repeatedly teaching the same patterns, you build up a knowledge base that captures Claude's insights and human context. This creates lasting value that benefits the entire team."
 
 ---
 
 ## Slide 17: Measuring Success
-**Visual:** Before/after code quality metrics
+**Visual:** Documentation quality and team adoption metrics
 
 **Script:**
-"How do you know it's working? Generated code feels familiar and fits naturally into your codebase. Claude anticipates your architectural preferences. You spend less time refactoring and more time building on the generated code. New team members can use Claude to learn your patterns."
+"How do you know it's working? Documentation captures insights you hadn't explicitly articulated. New team members can understand your codebase by reading Claude's pattern analysis. The documentation evolves and improves over time, and generates code that follows established patterns without repeated teaching."
 
 ---
 
@@ -158,7 +158,7 @@ A presentation on getting Claude Code to write code in your style.
 **Visual:** Clean thank you slide with resources
 
 **Script:**
-"Thank you for your attention. Remember, Claude's strength lies in pattern recognition and extrapolation. When you teach it your codebase's unique personality through conversation and examples, it becomes an extension of your development process, understanding your system so well that generated code feels like a natural part of it."
+"Thank you for your attention. Remember, the goal is to create a collaborative knowledge-building system where Claude's pattern recognition insights are captured in documentation that both humans and AI can reference and improve. This transforms occasional teaching into persistent knowledge that grows with your team."
 
 ---
 

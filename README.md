@@ -19,8 +19,9 @@ Beyond Vibe Coding leverages Claude's exceptional pattern recognition abilities 
 
 1. **Start with Conversation** - Explain the reasoning behind your patterns and architectural choices
 2. **Show, Don't Just Tell** - Provide examples of your best code that embody your style  
-3. **Focus on the Why** - Help Claude understand not just what patterns to use, but why they work in your context
-4. **Let Claude Learn** - Trust Claude's pattern recognition to extrapolate from examples to new situations
+3. **Let Claude Discover** - Have Claude analyze your examples and document the patterns it finds
+4. **Collaborate on Documentation** - Work together to refine and improve Claude's documented understanding
+5. **Build Persistent Knowledge** - Create lasting documentation that eliminates the need to re-teach patterns
 
 ## The Workflow
 
@@ -29,22 +30,24 @@ Beyond Vibe Coding leverages Claude's exceptional pattern recognition abilities 
 - Document your coding standards and preferences
 - Prepare examples of your best code as style references
 
-### Phase 2: Pattern Teaching
-- **Have the conversation** - Discuss what makes your codebase unique and why
+### Phase 2: Pattern Discovery
 - **Share examples** - Show Claude your best code that exemplifies your patterns
-- **Explain the reasoning** - Help Claude understand the context behind your choices
-- **Demonstrate relationships** - Show how different patterns work together
+- **Let Claude analyze** - Have Claude examine the code and identify patterns
+- **Document findings** - Claude creates markdown documentation of discovered patterns
+- **Review and refine** - Collaborate to improve the documented understanding
+- **Explain context** - Add reasoning and domain-specific knowledge to the documentation
 
-### Phase 3: Collaborative Coding
-- Start with small tasks that exercise your key patterns
-- Let Claude apply learned patterns to new situations
-- Provide feedback when outputs don't match your style
-- Build confidence in Claude's understanding through iteration
+### Phase 3: Collaborative Refinement
+- **Test understanding** - Give Claude tasks using the documented patterns
+- **Update documentation** - Refine patterns based on what works and what doesn't
+- **Build pattern library** - Accumulate a comprehensive knowledge base over time
+- **Share knowledge** - Enable team members to benefit from documented insights
 
-### Phase 4: Optimization
-- Streamline common development workflows
-- Create reusable templates and patterns
-- Document lessons learned for continuous improvement
+### Phase 4: Continuous Evolution
+- **Evolve documentation** - Update patterns as your codebase evolves
+- **Cross-project application** - Apply learned documentation techniques to new codebases
+- **Team knowledge sharing** - Help other developers contribute to pattern documentation
+- **Measure effectiveness** - Track how well documented patterns improve code generation quality
 
 ## Foundation: AI-Assisted Refinement
 
@@ -76,9 +79,19 @@ Your codebase personality includes:
 
 1. **Start a Conversation** - Discuss with Claude what makes your codebase special and why
 2. **Share Your Best Examples** - Show Claude code that exemplifies your patterns and style
-3. **Explain the Context** - Help Claude understand why certain patterns work in your environment  
-4. **Test Pattern Recognition** - Give Claude small tasks to see if it's absorbed your style
-5. **Iterate and Refine** - Provide feedback and additional examples as needed
+3. **Let Claude Document** - Have Claude analyze the examples and create pattern documentation
+4. **Review and Collaborate** - Work together to refine and improve the documented patterns
+5. **Test and Iterate** - Use the documented patterns for code generation and update based on results
+
+## The Documentation Advantage
+
+Instead of repeatedly teaching the same patterns, Claude creates persistent markdown documentation that:
+
+- **Captures Pattern Recognition** - Documents what Claude discovers from analyzing your code
+- **Eliminates Re-teaching** - Provides a reference that persists between sessions
+- **Enables Collaboration** - Creates a shared artifact that developers and Claude can improve together
+- **Builds Team Knowledge** - Helps other team members understand and contribute to codebase patterns
+- **Evolves Over Time** - Grows and adapts as your codebase and understanding mature
 
 ## Success Metrics
 
@@ -87,11 +100,14 @@ You'll know Beyond Vibe Coding is working when:
 - You spend less time refactoring generated code
 - The output feels familiar and maintainable
 - You find yourself building on generated code rather than rewriting it
-- Claude Code anticipates your preferences and architectural choices
+- Claude anticipates your preferences and architectural choices
+- Documentation captures insights you hadn't explicitly articulated
+- New team members can use documented patterns to understand the codebase
+- Pattern documentation evolves and improves over time
 
 ## The Key Insight
 
-Claude's strength lies in pattern recognition and extrapolation. When you show it examples of your best code and explain the reasoning behind your choices, it can internalize those patterns and apply them consistently to new situations. This isn't about rigid rules or configuration - it's about teaching through conversation and example, letting Claude learn your codebase's unique personality.
+Claude's strength lies in pattern recognition and documentation. Rather than having developers write style guides for Claude to follow, let Claude discover patterns from your code examples and document them. This creates a collaborative knowledge-building process where Claude's pattern recognition insights are captured in persistent documentation that both humans and AI can reference and improve over time.
 
 ## The Goal
 
