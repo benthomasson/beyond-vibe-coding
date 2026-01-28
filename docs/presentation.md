@@ -90,11 +90,11 @@ A presentation on getting Claude Code to write code in your style.
 
 ---
 
-## Slide 12: The Workflow - Phase 4: Knowledge Evolution
-**Visual:** Documentation evolving and growing over time with version history
+## Slide 12: The Workflow - Phase 4: Future-Proofing
+**Visual:** Documentation supporting future developers and AI instances seamlessly
 
 **Script:**
-"Phase 4: Knowledge Evolution. The documentation grows and evolves as your codebase changes. Team members can contribute to pattern documentation, and you can apply these documentation techniques to new projects."
+"Phase 4: Future-Proofing. The documentation becomes a bridge to the future. New developers can understand patterns immediately, different AI instances can pick up where others left off, and your codebase maintains consistency even as teams change. You're building institutional memory that lasts."
 
 ---
 
@@ -110,7 +110,7 @@ A presentation on getting Claude Code to write code in your style.
 **Visual:** Warning signs and anti-patterns
 
 **Script:**
-"Let's talk about common pitfalls. Being too vague without examples, focusing only on syntax instead of deeper patterns, and not explaining the reasoning behind your choices are the quickest ways to get code that doesn't match your codebase personality."
+"Let's talk about common pitfalls. Creating documentation that only serves today's team, focusing on surface patterns without deeper reasoning, and not planning for knowledge transfer are the quickest ways to lose institutional memory when team composition changes."
 
 ---
 
@@ -118,31 +118,31 @@ A presentation on getting Claude Code to write code in your style.
 **Visual:** Key points highlighted
 
 **Script:**
-"To summarize our best practices: Let Claude discover patterns from your code examples, collaborate on documenting those patterns with context and reasoning, build persistent knowledge that eliminates re-teaching, and evolve the documentation as your codebase grows."
+"To summarize our best practices: Let Claude discover patterns from your code examples, collaborate on documenting with future maintainers in mind, build institutional memory that survives team changes, and create documentation that serves as a bridge between past architectural decisions and future development needs."
 
 ---
 
-## Slide 16: The Documentation Advantage
-**Visual:** Before/after comparison showing repeated teaching vs. persistent documentation
+## Slide 16: Knowledge Preservation Value
+**Visual:** Timeline showing team changes with consistent codebase patterns maintained through documentation
 
 **Script:**
-"The documentation advantage transforms the relationship. Instead of repeatedly teaching the same patterns, you build up a knowledge base that captures Claude's insights and human context. This creates lasting value that benefits the entire team."
+"The real power lies in knowledge preservation. This documentation becomes institutional memory that survives team changes. New developers can understand your codebase immediately, and future AI instances can pick up where previous sessions left off, ensuring consistency across years of development."
 
 ---
 
-## Slide 17: Measuring Success
-**Visual:** Documentation quality and team adoption metrics
+## Slide 17: Long-term Impact
+**Visual:** Codebase timeline showing consistency maintained through team transitions
 
 **Script:**
-"How do you know it's working? Documentation captures insights you hadn't explicitly articulated. New team members can understand your codebase by reading Claude's pattern analysis. The documentation evolves and improves over time, and generates code that follows established patterns without repeated teaching."
+"The long-term impact is transformative. Your codebase maintains its personality even as original developers leave. New maintainers understand both what the code does and why it was structured that way. Future AI tools can validate consistency and suggest improvements while respecting established architectural decisions."
 
 ---
 
-## Slide 18: Next Steps
-**Visual:** Action items and resources
+## Slide 18: Building for the Future
+**Visual:** Roadmap showing immediate benefits leading to long-term value
 
 **Script:**
-"Ready to get started? Identify what makes your codebase unique, collect examples of your best code that demonstrate these patterns, and start having conversations with Claude about the reasoning behind your choices. Begin with small tasks to test understanding."
+"Ready to build for the future? Start by documenting your current patterns with Claude's help, but think beyond today's team. Create documentation that will serve future developers and AI instances. This isn't just about better code generation now - it's about preserving your team's collective wisdom for years to come."
 
 ---
 
@@ -150,7 +150,7 @@ A presentation on getting Claude Code to write code in your style.
 **Visual:** Contact information and resources
 
 **Script:**
-"That's our Beyond Vibe Coding approach. Let's open it up for questions. How can you apply these principles to your specific development workflow?"
+"That's our Beyond Vibe Coding approach - a knowledge preservation system that ensures your codebase's unique personality survives and thrives regardless of team changes. Let's open it up for questions about building documentation that serves both current and future development needs."
 
 ---
 
@@ -158,7 +158,7 @@ A presentation on getting Claude Code to write code in your style.
 **Visual:** Clean thank you slide with resources
 
 **Script:**
-"Thank you for your attention. Remember, the goal is to create a collaborative knowledge-building system where Claude's pattern recognition insights are captured in documentation that both humans and AI can reference and improve. This transforms occasional teaching into persistent knowledge that grows with your team."
+"Thank you for your attention. Remember, Beyond Vibe Coding is more than a development methodology - it's an investment in your codebase's future. By documenting Claude's pattern insights alongside human reasoning, you create institutional memory that ensures your hard-learned patterns and architectural wisdom continue to guide development long after today's team has moved on."
 
 ---
 
